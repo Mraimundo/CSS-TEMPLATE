@@ -4,9 +4,9 @@ Esse projeto foi desenvolvido para praticar as minhas habilidades técnicas. Tra
 
 ## 🎨 Layout
 
-
- ![characters](https://user-images.githubusercontent.com/53385345/162801109-14b87a0a-0a25-4e19-9e7c-81e94be480a1.png)
-
+![flexbox](https://user-images.githubusercontent.com/53385345/164245396-209bb79c-4aaa-4806-b324-560433d35a8e.png)
+![grid1](https://user-images.githubusercontent.com/53385345/164245634-dd592c63-345f-49d7-bd71-efab05405d4c.png)
+![grid2](https://user-images.githubusercontent.com/53385345/164245695-bcb78084-5fb9-4818-9a0a-a7e2162c8405.png)
 
 ## 🥉: Tecnologias
 
